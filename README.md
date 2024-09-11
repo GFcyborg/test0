@@ -8,6 +8,7 @@
 
 My PC
 =====
+```
 gf@ant:~$ neofetch --off ; date
 gf@ant 
 ------ 
@@ -33,4 +34,5 @@ Memory: 6202MiB / 31845MiB
 
 
 2024-09-11T08:35:51 CEST
+```
 
