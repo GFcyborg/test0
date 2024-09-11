@@ -1,11 +1,9 @@
 # My experiments on git and python
-Readme formatting:
-https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
-
+bla bla
 ## My env setup
-
+ble ble
 ### My runtime
-
+bli bli
 
 
 My PC
@@ -31,10 +29,8 @@ CPU: Intel i5-6300U (4) @ 3.000GHz
 GPU: Intel Skylake GT2 [HD Graphics 520] 
 Memory: 6202MiB / 31845MiB 
 
-                         
-                         
-
-
 2024-09-11T08:35:51 CEST
 ```
 
+How to format a Readme.md (syntax tips):
+https://docs.github.com/en/get-started/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax
