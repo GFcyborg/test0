@@ -13,7 +13,7 @@ Credits: Alan Turing, Claude Shannon, Linus Torvalds, Guido van Rossum
 Description: This header is called <obj>.__doc__
 """
 __author__ = "Giacomo Fagioli"
-__status__ = "Production"
+__status__ = "Testing"
 
 import os
 import datetime
